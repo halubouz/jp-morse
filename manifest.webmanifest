@@ -2,8 +2,8 @@
     "theme_color": "#6e6e6e",
     "background_color": "#e6e6e6",
     "display": "standalone",
-    "scope": "/",
-    "start_url": "/",
+    "scope": "https://halubouz.github.io/jp-morse/",
+    "start_url": "https://halubouz.github.io/jp-morse/",
     "name": "\u548c\u6587\u30e2\u30fc\u30eb\u30b9\u7b26\u53f7",
     "short_name": "\u30e2\u30fc\u30eb\u30b9",
     "icons": [
